@@ -6,7 +6,7 @@ body{
     background-size: cover;
 }
 /*rotate imagem logo-davidDd*/
-.rotate-logo-davidDd{
+.rotate-logo-davidDd {
     display:block;
     position: fixed;
     top: 25%;
@@ -15,12 +15,11 @@ body{
     height:350px;
     margin-left:-200px;
     margin-top:-40px;
-    /* margin: -60px 0 0 -60px; */
-    
+    /* margin: -60px 0 0 -60px; */    
     /*rotação*/
     -webkit-transition: -webkit-transform 2s;
-
 }
+
 /*rotação*/
 .rotate-logo-davidDd:hover{
     -webkit-transform: rotate(360deg) translateZ(0);
@@ -52,7 +51,7 @@ body{
       width: 0;
     }
     to {
-      width: 100%;
+      width: 30%;
     }
   }
   
