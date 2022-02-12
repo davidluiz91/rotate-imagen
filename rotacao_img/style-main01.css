@@ -1,3 +1,7 @@
+body {
+  background-color:black ;
+
+}
 .rodape_final {
     background-color: black;
     color: white;
@@ -5,6 +9,7 @@
 
 .container-resumo {
   background-color: #555;
+  
 }
 
 
