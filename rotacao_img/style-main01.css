@@ -1,5 +1,5 @@
 body {
-  background-color:black ;
+  background-color:rgb(233, 212, 212) ;
 
 }
 .rodape_final {
@@ -8,13 +8,14 @@ body {
 }
 
 .container-resumo {
-  background-color: #555;
-  
+  background-color: black;
+    width: auto;
+    color: white;
+    
+    margin: 20px auto;
+    padding-left:50px;
+    padding-top:50px;
 }
-
-
-
-
 
 /* width */
 ::-webkit-scrollbar {
